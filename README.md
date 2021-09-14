@@ -66,6 +66,9 @@ Ovaj task nam služi za ispis na seg7 displeju. Displej osvježavamo svakih 1s. 
 TimerCallBack
    
 Funkcija za brojač se aktivira svakih 200ms. Ima tri funkcionalnosti:
+   
 Svakih 200ms šalje “T” na kanalu 0
+   
 Svakih 5s šalje podatke na kanal 1
+   
 Svakih 1s osvježava displej
